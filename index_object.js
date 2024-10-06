@@ -1,14 +1,14 @@
 // /**
 //  * EXAMPLE 1 - Create object and modify its properties
 //  */
-// let myObject;
+let myObject;
 
-// myObject = {
-//   a: 10,
-//   b: "abc"
-// };
+myObject = {
+  a: 10,
+  b: "abc"
+};
 
-// console.log(myObject);
+console.log(myObject);
 
 // myObject.a = 15;
 
